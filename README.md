@@ -24,3 +24,64 @@ This calculator allows users to perform arithmetic operations with a clean desig
 │-- lator.js # JavaScript file (logic and functionality)
 │-- README.md # Documentation
 
+---
+
+---
+
+## 🚀 How to Run the Project  
+
+1. **Download or Clone the Repository**  
+   ```bash
+   git clone https://github.Navigate to the folder
+
+cd Calculator-App
+
+
+Open calc.html in your browser.
+
+Double click the file, OR
+
+Right-click → Open with Browser.
+
+That’s it 🎉! The calculator is ready to use.
+
+🎨 UI / Design Highlights
+
+Minimalistic design for better focus
+
+Smooth button hover effects
+
+Responsive layout (adapts to mobile & desktop)
+
+Clean background with modern color scheme
+
+🛠️ Technologies Used
+
+HTML5 → Structure (calc.html)
+
+CSS3 → Styling, responsiveness, and animations (operator.css)
+
+JavaScript (ES6) → Functionality and interactivity (lator.js)
+
+📖 Learning Outcomes
+
+By building this calculator, you’ll learn:
+
+DOM manipulation in JavaScript
+
+Handling user input and events
+
+Responsive design with CSS
+
+Error handling in calculations
+
+Creating an interactive UI from scratch
+
+
+
+
+
+
+   
+   
+
