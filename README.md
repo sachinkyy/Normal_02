@@ -32,7 +32,7 @@ This calculator allows users to perform arithmetic operations with a clean desig
 
 1. **Download or Clone the Repository**  
    ```bash
-   git clone https://github.Navigate to the folder
+   git clone https://github.com/sachinkyy/Normal_02.git
 
 cd Calculator-App
 
